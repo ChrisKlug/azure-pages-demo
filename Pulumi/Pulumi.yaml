@@ -1,0 +1,3 @@
+name: AzurePagesDemo
+runtime: nodejs
+description: A minimal Azure TypeScript Pulumi program

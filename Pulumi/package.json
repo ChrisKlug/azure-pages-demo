@@ -1,0 +1,12 @@
+{
+    "name": "azurepagesdemo",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@azure/arm-cdn": "^4.2.0",
+        "@pulumi/azure": "^3.0.0",
+        "@pulumi/pulumi": "^2.0.0",
+        "azure-storage": "^2.10.3"
+    }
+}

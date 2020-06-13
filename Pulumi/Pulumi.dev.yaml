@@ -1,0 +1,5 @@
+encryptionsalt: v1:iNR5QPALP+o=:v1:H78sDqBvX/yfa/pJ:NqYXqjS0Es0btL8nkODs+mMwy5erPg==
+config:
+  AzurePagesDemo:projectName: AzurePagesDemo
+  azure:environment: public
+  azure:location: NorthEurope
